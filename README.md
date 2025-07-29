@@ -70,7 +70,7 @@
 <a href="https://github.com/DarshniSanjaikumar/DreamScape-Frontend">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DarshniSanjaikumar&repo=DreamScape-Frontend&theme=tokyonight" />
 </a>
-<a href="https://github.com/DarshniSanjaikumar/Startup-Radar_">
+<a href="https://github.com/DarshniSanjaikumar/Startup-Radar">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DarshniSanjaikumar&repo=Startup-Radar_&theme=tokyonight" />
 </a>
 
