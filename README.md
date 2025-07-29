@@ -17,7 +17,7 @@
 
 ### 👩‍💻 About Me
 
-- 🎓 **B.Tech in Computer Science** (2020–2024)
+- 🎓 **B.Tech in Computer Science** (2020–2024) – CGPA: 8.9  
 - 🧠 Passionate about **Machine Learning, Deep Learning, and Data Science**
 - 💻 Also skilled in **Web Development** using React and Node.js
 - 🛠️ Building practical solutions like sign language translators, health monitoring systems, and more
@@ -47,10 +47,9 @@
 
 ### 📈 GitHub Stats
 
-
 <p align="center">
-  <img width="450" height="200" src="https://github-readme-stats.vercel.app/api?username=DarshniSanjaikumar&show_icons=true&theme=vision-friendly-dark">
-  <img width="350" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarshniSanjaikumar&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
+  <img src="https://github-readme-stats.vercel.app/api?username=darshnisanjaikumar&show_icons=true&theme=radical" alt="Darshni's GitHub Stats" width="45%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=darshnisanjaikumar&theme=radical&hide_border=false" alt="GitHub Streak" width="45%"/>
 </p>
 
 ---
