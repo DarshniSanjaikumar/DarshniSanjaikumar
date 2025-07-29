@@ -51,6 +51,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=darshnisanjaikumar&show_icons=true&theme=radical" alt="Darshni's GitHub Stats" width="45%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=darshnisanjaikumar&theme=radical&hide_border=false" alt="GitHub Streak" width="45%"/>
 </p>
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=DANNE-SANDEEP&style=for-the-badge&color=orange" alt=""/>
+</div>
 
 ---
 
