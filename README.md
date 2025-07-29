@@ -17,7 +17,7 @@
 
 ### 👩‍💻 About Me
 
-- 🎓 **B.Tech in Computer Science** (2020–2024) – CGPA: 8.9  
+- 🎓 **B.Tech in Computer Science** (2020–2024)
 - 🧠 Passionate about **Machine Learning, Deep Learning, and Data Science**
 - 💻 Also skilled in **Web Development** using React and Node.js
 - 🛠️ Building practical solutions like sign language translators, health monitoring systems, and more
