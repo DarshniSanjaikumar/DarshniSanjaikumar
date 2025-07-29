@@ -1,16 +1,21 @@
-## Hi there 👋
+### Hi there, I'm Darshni 👋
 
-<!--
-**DarshniSanjaikumar/DarshniSanjaikumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Machine Learning enthusiast and Full Stack Developer from India 🇮🇳  
+🔭 I’m currently working on: DreamScape MERN App  
+🌱 I’m currently learning: DevOps & Model Deployment  
+💬 Ask me about: React, Python, MongoDB, GitHub Pages  
+📫 How to reach me: [darshnisanjaikumar@gmail.com](mailto:darshnisanjaikumar@gmail.com)  
+📝 Portfolio: [View here](https://your-portfolio-link.com)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Languages & Tools
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
