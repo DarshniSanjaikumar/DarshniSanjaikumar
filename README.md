@@ -60,7 +60,7 @@
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarshniSanjaikumar&layout=compact&theme=radical" alt="Top Languages" />
   <br/>
-<img src="https://streak-stats.demolab.com/?user=DarshniSanjaikumar&theme=radical" alt="GitHub Streak" />
+<img src="[https://streak-stats.demolab.com/?user=DarshniSanjaikumar&theme=radical](https://streak-stats.demolab.com/?user=DarshniSanjaikumar&theme=radical)" alt="GitHub Streak" />
 </p>
 
 ---
@@ -87,6 +87,4 @@
 
 ---
 
-<p align="center">
-  Made with 💖 by <b>Darshni Sanjaikumar</b>
-</p>
+
