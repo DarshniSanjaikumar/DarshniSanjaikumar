@@ -71,7 +71,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DarshniSanjaikumar&repo=DreamScape-Frontend&theme=tokyonight" />
 </a>
 <a href="https://github.com/DarshniSanjaikumar/Startup-Radar_">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DarshniSanjaikumar&repo=Startup-Radar_&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=DarshniSanjaikumar&theme=radical" alt="GitHub Streak" />
 </a>
 
 ---
