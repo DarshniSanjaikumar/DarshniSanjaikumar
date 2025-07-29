@@ -18,4 +18,4 @@ I’m a Machine Learning enthusiast and Full Stack Developer from India 🇮🇳
 ---
 
 ### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=DarshniSanjaikumar&show_icons=true&theme=radical)
