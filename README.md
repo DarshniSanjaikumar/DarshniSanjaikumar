@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="./assets/Darshni(Cover image).png" alt="Darshni Sanjaikumar Banner" />
+  <img src="./assets/Screenshot from 2025-07-31 09-37-52.png" alt="Darshni Sanjaikumar Banner" />
 </p>
 
 <h1 align="center">Hi, I'm Darshni Sanjaikumar 👋</h1>
